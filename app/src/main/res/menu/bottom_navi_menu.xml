@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/send_request"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_24px"
+        android:title="인연 신청" />
+    <item
+        android:id="@+id/message_tab"
+        android:enabled="true"
+        android:checked="true"
+        android:icon="@drawable/ic_sms_24px"
+        android:title="메시지" />
+    <item
+        android:id="@+id/accept_request"
+        android:enabled="true"
+        android:icon="@drawable/ic_person_24px"
+        android:title="받은 신청" />
+</menu>

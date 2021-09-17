@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688046418578",
+    "firebase_url": "https://collegemeeting-3b1c3-default-rtdb.firebaseio.com",
+    "project_id": "collegemeeting-3b1c3",
+    "storage_bucket": "collegemeeting-3b1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688046418578:android:9bb0cb587a0c8805f6144b",
+        "android_client_info": {
+          "package_name": "com.example.meetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688046418578-1up284b5r4im5hbt32iu25r1nrnsqb0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVT9RVtAATWJ15a9NNS1J1ZECzmp4cLq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688046418578-1up284b5r4im5hbt32iu25r1nrnsqb0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
